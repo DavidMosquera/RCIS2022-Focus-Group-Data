@@ -8,4 +8,4 @@ We created this repository to show data that for space reasons is not included i
 * [Threats of validity](https://github.com/DavidMosquera/RCIS2022-Focus-Group-Data/tree/main/threats-of-validity): We analyze some threats of validity related to our experiment. Such anlysis include: [conclusion validity](https://github.com/DavidMosquera/RCIS2022-Focus-Group-Data/tree/main/threats-of-validity#conclusion-validity), [internal validity](https://github.com/DavidMosquera/RCIS2022-Focus-Group-Data/tree/main/threats-of-validity#internal-validity), [construct validity](https://github.com/DavidMosquera/RCIS2022-Focus-Group-Data/tree/main/threats-of-validity#internal-validity), and [external validity](https://github.com/DavidMosquera/RCIS2022-Focus-Group-Data/tree/main/threats-of-validity#internal-validity). 
 * [Raw data](https://github.com/DavidMosquera/RCIS2022-Focus-Group-Data/tree/main/raw-data): We show the "raw" data of our focus group. Moreover, we show how group's contributions have been refinated for presenting them in the paper. 
 
-# Last Update at: 24.01.2022 - 04:15:40 AoE
+# Last updated: 24.01.2022 - 04:16:40 AoE
