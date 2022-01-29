@@ -1,4 +1,4 @@
 ### Focus group "raw" data refinement during the data analysis for RQ3
-![RAW-DATA-RQ3](https://user-images.githubusercontent.com/18057711/150816606-ce763358-c7f1-4e8b-a269-125eff9c8981.png)
+![FG-Data-SMQ3 drawio](https://user-images.githubusercontent.com/18057711/151675516-606f9575-0c0d-4705-b752-636f0037be57.png)
 
 
